@@ -7,7 +7,7 @@ from pathlib import Path
 # Configure Gemini API
 # IMPORTANT: Replace with your actual API key in your local environment
 # It's safer to use environment variables, but for this script, we'll use the placeholder
-GEMINI_API_KEY = "8===============D"  # Replace with your actual API key
+GEMINI_API_KEY = "suck_my_dick"  # Replace with your actual API key
 genai.configure(api_key=GEMINI_API_KEY)
 
 def read_verse_file(filepath):
